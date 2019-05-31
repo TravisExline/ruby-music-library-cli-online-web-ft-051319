@@ -1,4 +1,4 @@
 class MusicImporter
-  def initialize
+  def initialize(filename)
   end
 end
